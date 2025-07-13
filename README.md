@@ -6,9 +6,9 @@ An intelligent assistant that performs document-based Question Answering, Summar
 
 ## 📽️ Demo Video
 
-[Click here to watch the demo](https://youtu.be/Z49y2p9KBTc)
+[Click here to watch the demo](https://youtu.be/Z49y2p9KBTc?si=sVvsEeDQyc0t9-TH)
 
-[![Watch the video](https://img.youtube.com/vi/abc123xyz/0.jpg)](https://youtu.be/Z49y2p9KBTc)
+[![Watch the video](https://img.youtube.com/vi/Z49y2p9KBTc?si=sVvsEeDQyc0t9-TH/0.jpg)](https://youtu.be/Z49y2p9KBTc?si=sVvsEeDQyc0t9-TH)
 
 
 ## Setup Instructions
