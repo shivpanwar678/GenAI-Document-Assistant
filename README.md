@@ -4,6 +4,13 @@ An intelligent assistant that performs document-based Question Answering, Summar
 
 ---
 
+## 📽️ Demo Video
+
+[Click here to watch the demo](https://youtu.be/Z49y2p9KBTc)
+
+[![Watch the video](https://img.youtube.com/vi/abc123xyz/0.jpg)](https://youtu.be/Z49y2p9KBTc)
+
+
 ## Setup Instructions
 
 ### Prerequisites
